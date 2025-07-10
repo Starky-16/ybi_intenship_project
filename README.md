@@ -37,7 +37,7 @@ Resale Value Loss %
 
 Resale Value Loss (₹)
 
-⚙️ Tools & Libraries:
+# Tools & Libraries:
 Python
 
 Pandas, NumPy
